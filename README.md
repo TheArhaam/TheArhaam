@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="assets/Avatar-2.png" height="300">
-</p>
-
-<hr>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thearhaam&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
   <img src="assets/Avatar-2.png" height="300">
 </p>
 
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearhaam&hide=java&layout=compact&hide_border=true&hide_title=true" />
